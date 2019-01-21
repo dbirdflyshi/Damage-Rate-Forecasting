@@ -1,7 +1,7 @@
 # Damage-Rate-Forecasting
 A Udacity Capstone Project
 
-###Files:
+### Files:
 - damage rate.py is the python file that holds the code for the project
 -rate.csv is the output file that the damage rate.py creates
 - AllInflowsFcst.csv is the file that holds the forecast for inflows
@@ -11,7 +11,7 @@ A Udacity Capstone Project
 - Damage Rate Project Report.pdf is the final project report 
 - Damage Rate Forecast Project Propsal.pdf is the final project proposal document
 
-###Extra packages required to run the code:
+### Extra packages required to run the code:
 - xgboost
 - sklearn GridSearchCV
 - Pandas
